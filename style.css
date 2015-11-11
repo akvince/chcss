@@ -1,0 +1,26 @@
+.container {
+  margin: 0 auto;
+  width: 100%;
+  font-size: 1.5em;
+}
+h1{
+  font-size: 2em;
+}
+header {
+  background-color: #FF9800;
+  text-align: center;
+  height: 150px;
+  box-shadow: 3px 3px 3px lightgray;
+}
+section {
+  background-color: #FFB74D;
+  box-shadow: 4px 4px 4px lightgray;
+  width: 90%;
+  display: inline-block;
+}
+
+code {
+  background-color: #FFE0B2;
+  color: black;
+  font-weight: bold;
+}
