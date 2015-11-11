@@ -2,9 +2,11 @@
   margin: 0 auto;
   width: 100%;
   font-size: 1.5em;
+  font-family: helvetica;
 }
 h1{
   font-size: 2em;
+  font-weight: bold;
 }
 h2{
   font-weight: bold;
@@ -12,7 +14,7 @@ h2{
 header {
   background-color: #FF9800;
 
-  height: 150px;
+  height: 100px;
   box-shadow: 3px 3px 3px lightgray;
 }
 section {
