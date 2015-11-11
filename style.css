@@ -6,17 +6,20 @@
 h1{
   font-size: 2em;
 }
+h2{
+  font-weight: bold;
+}
 header {
   background-color: #FF9800;
-  text-align: center;
+
   height: 150px;
   box-shadow: 3px 3px 3px lightgray;
 }
 section {
   background-color: #FFB74D;
   box-shadow: 4px 4px 4px lightgray;
-  width: 90%;
-  display: inline-block;
+  margin-right: 10%;
+    margin-left: 10%;
 }
 
 code {
