@@ -49,13 +49,13 @@ footer {
 
 @media screen and (max-width: 640px) {
   #back {
-    height: 700px;
+    height: 750px;
   }
   #boites {
-    height: 700px;
+    height: 800px;
   }
   #police{
-    height: 550px;
+    height: 600px;
   }
   #position{
     height: 550px;
