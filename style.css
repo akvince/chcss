@@ -32,15 +32,32 @@ code {
 footer {
   text-align: right;
 }
-#back{
-    height: 550px;
+#back {
+  height: 550px;
 }
-#boites{
-    height: 550px;
+#boites {
+  height: 550px;
 }
-#police{
-    height: 400px;
+#police {
+  height: 400px;
 }
-#position{
-    height: 400px;  
+#position {
+  height: 400px;
+}
+
+/**=====================================mobile=================================**/
+
+@media screen and (max-width: 640px) {
+  #back {
+    height: 650px;
+  }
+  #boites {
+    height: 650px;
+  }
+  #police{
+    height: 450px;
+  }
+  #position{
+    height: 450px;
+  }
 }
